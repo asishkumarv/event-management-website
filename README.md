@@ -25,8 +25,8 @@ A simple and modern event management website built using **HTML**, **CSS**, and 
    ```bash
    git clone https://github.com/yourusername/event-management-website.git
 2. **Navigate to the folder**
-   cd event-management-website
-3. Open index.html in your browser
+     -cd event-management-website
+4. Open index.html in your browser
 
     Option 1: Double-click index.html
 
