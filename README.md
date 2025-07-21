@@ -6,9 +6,15 @@ A simple and modern event management website built using **HTML**, **CSS**, and 
 
 ## 🖼️ Screenshots
 
-![Homepage Screenshot](images/screenshot1.png)
-![Events Section Screenshot](images/screenshot2.png)
+# Homepage
+![Homepage Screenshot](screens/Screenshot4.png)
 
+# Events
+![Events Section Screenshot](screens/Screenshot5.png)
+
+# Get in touch
+
+![get intouch Section Screenshot](screens/Screenshot5.png)
 
 
 ## 🌟 Features
