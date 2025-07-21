@@ -34,6 +34,8 @@ A simple and modern event management website built using **HTML**, **CSS**, and 
 ---
 🔗 Live Demo
 
+https://asishkumarv.github.io/event-management-website/
+
 ---
 🛠️ Technologies Used
 
