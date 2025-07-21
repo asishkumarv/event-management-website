@@ -14,7 +14,7 @@ A simple and modern event management website built using **HTML**, **CSS**, and 
 
 # Get in touch
 
-![get intouch Section Screenshot](screens/Screenshot5.png)
+![get intouch Section Screenshot](screens/Screenshot6.png)
 
 
 ## 🌟 Features
